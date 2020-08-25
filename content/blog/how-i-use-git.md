@@ -5,9 +5,20 @@ title: How I use Git
 description: How I learnt and improved the way I work with others using the most
   universal programmer's tool
 ---
-Having graduated a coding bootcamp nearly two years ago, I began the journey of learning how to use the principles of software engineering I’d learnt in real life software. I found a huge disconnect between being able to create variables, loops and maps, and having the ability 
+In my first year working professionally as a software engineer there are two skills that I now deem have had the most impact in my development:
 
-I first delved deep into improving my Javascript, no bad move, however, software engineering is principally about collaboration, about writing software that is maintainable and extendable and to that end, no skill has helped me more when collaborating with other engineers than being able to use Git.
+- The realisation that there is no right, just many different ways to do things, and that the world of building software involves a lot of treading a path referencing what came before (or imposter syndrome for short)
+- The ability to be part of a workflow, deploying code quickly and safely while working as part of a team of engineers.
+
+I'm going to talk about two things:
+1. The process through which I improved my git skills and how that might be more broadly applicable
+2. The key skills I picked up along the way
+
+Point one I will go into more detail on in a future post. Regarding part two: working as part of a team to maintain and extend a codebase, no one thing has helped me more than improving how I use Git 
+
+Having graduated a coding bootcamp nearly two years ago, I began the journey of learning how to use the principles of software engineering I’d learnt in real life software. 
+
+I delved deep into learning Javascript, no bad move, however, software engineering is principally about collaboration, about writing software that is maintainable and extendable and to that end, no skill has helped me more when collaborating with other engineers than being able to use Git.
 
 I had learned a bit of Git on the bootcamp - how to commit, push, pull. But understanding the basics was holding me back - using git in the cli was intimidating and I wasn’t sure always what was going on so I was reticent to experiment for fear of losing changes.
 
@@ -15,6 +26,7 @@ Thanks to help from my colleagues and good old fashioned practice - I feel I hav
 
 ## Why is Git important?
 ## My Git tips
+There are three keys things I've really a
 ### Own your toolbox
 If you read the Pragmatic Programmer (and you should), you will read a chapter that talks about the tools that you use in your trade. The key lesson I remember is that while you will have a few trusty programs that you’ll come back to time and again (kind of like your trusty hammer) - you don’t need one tool for all jobs, in fact in the case of git, you may not want to use one tool for one job.
 
@@ -62,5 +74,7 @@ You will now be taken into a git delorean and all of a sudden be at a different 
 Make the change you want to make
 Save and amend the commit message if necessary
 Hit git rebase —continue to fly back to the present
+
+
 
 
