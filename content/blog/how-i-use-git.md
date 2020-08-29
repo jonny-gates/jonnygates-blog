@@ -5,6 +5,10 @@ title: How I use Git
 description: How I learnt and improved the way I work with others using the most
   universal programmer's tool
 ---
+While transitioning from bootcamp graduate to software engineer, I've spent a lot of time trying to discover the 'right' way to do things. Over time, I have realised that there is sometimes right, sometimes wrong, but more often somewhere in the middle. Rather than finding a correct solution to problems, I find my self implementing things with trade-offs, making sure I meet the needs of my users, while working in a way that ensures the features I write can be looked after and changed in future by my colleagues.
+
+Working in a team 
+
 In my first year working professionally as a software engineer there are two skills that I now deem have had the most impact in my development:
 
 - The realisation that there is no right, just many different ways to do things, and that the world of building software involves a lot of treading a path referencing what came before (or imposter syndrome for short)
@@ -74,6 +78,11 @@ You will now be taken into a git delorean and all of a sudden be at a different 
 Make the change you want to make
 Save and amend the commit message if necessary
 Hit git rebase —continue to fly back to the present
+
+## Gaining confidence in Git
+
+
+
 
 
 
